@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Add_DVD_R.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Information_DTrade_R.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Information_DVD_R.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Information_VIP_R.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Information_Vtrade_R.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Information_member_R.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Menu_R.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Payment_R.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Rent_R.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Renturn_R.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/VIP_register_R.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basicfunc_realize.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manager_R.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manager_enum_R.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manual_R.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pre_declaration.h" charset="GBK" />
+  </component>
+</project>

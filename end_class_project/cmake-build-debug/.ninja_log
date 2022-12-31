@@ -1,0 +1,19 @@
+# ninja log v5
+1	109	6927289328193043	CMakeFiles/end_class_project.dir/main.c.obj	579429bd30eef03
+3	125	6928917781272755	CMakeFiles/end_class_project.dir/VIP_register_R.c.obj	d4588f9d402f391
+2	120	6926338942786266	CMakeFiles/end_class_project.dir/Menu_R.c.obj	70142e835ceae2c1
+2	115	6926372624959358	CMakeFiles/end_class_project.dir/basicfunc_realize.c.obj	845d539e0f5b129e
+156	269	6926118667581857	CMakeFiles/end_class_project.dir/Payment_R.c.obj	77d7aff8655b7ebc
+127	231	6928920570869832	end_class_project.exe	98e8033b40277174
+138	255	6926118667540202	CMakeFiles/end_class_project.dir/Renturn_R.c.obj	381eaea399e50fcd
+255	374	6926118668724651	CMakeFiles/end_class_project.dir/Rent_R.c.obj	7d5708fbfe5c98bc
+270	383	6926118668774441	CMakeFiles/end_class_project.dir/Information_VIP_R.c.obj	a9fd41c3d2ce7030
+10905	14977	6926037983152824	CMakeFiles/end_class_project.dir/Informationsearch_R.c.obj	5a9d100366f350e9
+374	484	6926118669836287	CMakeFiles/end_class_project.dir/Information_DVD_R.c.obj	fa6c2d5eae695c9d
+3	127	6928920569892981	CMakeFiles/end_class_project.dir/manager_R.c.obj	20a23793d4b500d0
+383	493	6926118669836287	CMakeFiles/end_class_project.dir/manager_enum_R.c.obj	6cadd8fd77706626
+493	609	6926118671017153	CMakeFiles/end_class_project.dir/Information_member_R.c.obj	d1ad8476d70969f0
+501	608	6926118670982387	CMakeFiles/end_class_project.dir/Information_DTrade_R.c.obj	9051c331fb4cb8e5
+3	1008	6926368388217610	CMakeFiles/end_class_project.dir/Information_Vtrade_R.c.obj	849fe1c1af3d9661
+393	500	6926118669980669	CMakeFiles/end_class_project.dir/Add_DVD_R.c.obj	a5a858110c1a875c
+12	124	6928920569861740	CMakeFiles/end_class_project.dir/manual_R.c.obj	d48a1ebc1c117b99
